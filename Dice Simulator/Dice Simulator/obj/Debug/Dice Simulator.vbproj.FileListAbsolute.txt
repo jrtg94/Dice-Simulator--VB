@@ -1,0 +1,11 @@
+C:\Users\june_\Documents\Visual Studio 2017\Projects\Dice Simulator\Dice Simulator\bin\Debug\Dice Simulator.exe.config
+C:\Users\june_\Documents\Visual Studio 2017\Projects\Dice Simulator\Dice Simulator\bin\Debug\Dice Simulator.exe
+C:\Users\june_\Documents\Visual Studio 2017\Projects\Dice Simulator\Dice Simulator\bin\Debug\Dice Simulator.pdb
+C:\Users\june_\Documents\Visual Studio 2017\Projects\Dice Simulator\Dice Simulator\bin\Debug\Dice Simulator.xml
+C:\Users\june_\Documents\Visual Studio 2017\Projects\Dice Simulator\Dice Simulator\obj\Debug\Dice Simulator.vbprojResolveAssemblyReference.cache
+C:\Users\june_\Documents\Visual Studio 2017\Projects\Dice Simulator\Dice Simulator\obj\Debug\Dice_Simulator.Form1.resources
+C:\Users\june_\Documents\Visual Studio 2017\Projects\Dice Simulator\Dice Simulator\obj\Debug\Dice_Simulator.Resources.resources
+C:\Users\june_\Documents\Visual Studio 2017\Projects\Dice Simulator\Dice Simulator\obj\Debug\Dice Simulator.vbproj.GenerateResource.Cache
+C:\Users\june_\Documents\Visual Studio 2017\Projects\Dice Simulator\Dice Simulator\obj\Debug\Dice Simulator.exe
+C:\Users\june_\Documents\Visual Studio 2017\Projects\Dice Simulator\Dice Simulator\obj\Debug\Dice Simulator.xml
+C:\Users\june_\Documents\Visual Studio 2017\Projects\Dice Simulator\Dice Simulator\obj\Debug\Dice Simulator.pdb
